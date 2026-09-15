@@ -78,9 +78,10 @@ python YouTube_Bot.py
 
 ## Performance
 
-- **Latency:** ~15-20 seconds end-to-end
-- **Video Length:** Handles 4+ hour transcripts
-- **Accuracy:** 100% grounded in source material
+* Retrieval Speed: Sub-second semantic search with FAISS
+* Context Handling: Overlapping chunking preserves context across long transcripts
+* Grounded Q&A: Responses generated from retrieved video context
+* Pipeline: End-to-end ingestion → embedding → retrieval → generation workflow
 
 ## Author
  **Samuel Olagbenro**
