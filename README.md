@@ -82,7 +82,7 @@ python YouTube_Bot.py
 - **Video Length:** Handles 4+ hour transcripts
 - **Accuracy:** 100% grounded in source material
 
-**Author**
+## Author
 **Samuel Olagbenro**
 *Data Scientist | AI/ML Engineer*
 <a href="https://www.linkedin.com/in/samuel-olagbenro" target="_blank">
