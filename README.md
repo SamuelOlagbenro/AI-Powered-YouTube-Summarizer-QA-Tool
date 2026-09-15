@@ -84,5 +84,8 @@ python YouTube_Bot.py
 
 ---
 
-***[Your LinkedIn https://www.linkedin.com/in/samuel-olagbenro]**  
+***[My LinkedIn https://www.linkedin.com/in/samuel-olagbenro]**  
+<a href="https://www.linkedin.com/in/samuel-olagbenro" target="_blank">
+  LinkedIn
+</a>
 Open to conversations about RAG systems, LLM engineering, and production ML roles.
