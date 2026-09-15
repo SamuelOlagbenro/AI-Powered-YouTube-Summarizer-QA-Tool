@@ -1,5 +1,5 @@
 # AI-Powered-YouTube-Summarizer-QA-Tool
-![Python](https://img.shields.io/badge/Python-3.9%2B-3776ab?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.11%2B-3776ab?style=flat-square&logo=python&logoColor=white)
 ![IBM Watsonx](https://img.shields.io/badge/IBM%20Watsonx-AI-1F70C1?style=flat-square&logo=ibm&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Framework-0EA5E9?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-Vector%20Store-FFB000?style=flat-square)
