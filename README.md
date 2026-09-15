@@ -12,3 +12,4 @@
 ![Data Processing](https://img.shields.io/badge/Text%20Processing-LangChain-0EA5E9?style=flat-square)
 ![IBM Granite](https://img.shields.io/badge/IBM%20Granite-8B%20LLM-1F70C1?style=flat-square&logo=ibm&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-Production-FF6B6B?style=flat-square)
+![IBM SLATE-30M](https://img.shields.io/badge/IBM-SLATE--30M-052FAD?logo=ibm&logoColor=white)
