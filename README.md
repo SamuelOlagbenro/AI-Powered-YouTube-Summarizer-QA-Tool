@@ -83,7 +83,7 @@ python YouTube_Bot.py
 - **Accuracy:** 100% grounded in source material
 
 ## Author
-**Samuel Olagbenro**
+# Samuel Olagbenro
 *Data Scientist | AI/ML Engineer*
 <a href="https://www.linkedin.com/in/samuel-olagbenro" target="_blank">
   My LinkedIn
