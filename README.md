@@ -10,8 +10,5 @@
 
 ![YouTube API](https://img.shields.io/badge/YouTube-Transcript%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![Data Processing](https://img.shields.io/badge/Text%20Processing-LangChain-0EA5E9?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-0.1.14-0EA5E9?style=flat-square&logo=langchain&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1.7.4-FFB000?style=flat-square&logoColor=white)
-![Vector DB](https://img.shields.io/badge/Vector%20DB-FAISS-success?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-SLATE--30M-9B59B6?style=flat-square)
-![RAG](https://img.shields.io/badge/Architecture-RAG-FF1493?style=flat-square)
+![IBM Granite](https://img.shields.io/badge/IBM%20Granite-8B%20LLM-1F70C1?style=flat-square&logo=ibm&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-Production-FF6B6B?style=flat-square)
