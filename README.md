@@ -84,5 +84,5 @@ python YouTube_Bot.py
 
 ---
 
-**[Your GitHub Profile Link]** | **[Your LinkedIn]**  
+***[Your LinkedIn https://www.linkedin.com/in/samuel-olagbenro]**  
 Open to conversations about RAG systems, LLM engineering, and production ML roles.
