@@ -41,11 +41,11 @@ The RAG architecture ensures accuracy—answers are *always* backed by video con
 
 ## Key Features
 
-✅ **Production-Grade Code** – Modular, error-handled, scalable  
-✅ **Smart Chunking** – Overlapping text segments preserve context  
-✅ **Sub-Second Retrieval** – FAISS powers instant similarity search  
-✅ **Prompt Engineering** – Carefully structured for optimal LLM performance  
-✅ **Web UI** – Gradio interface, zero DevOps required  
+- **Production-Grade Code** – Modular, error-handled, scalable  
+- **Smart Chunking** – Overlapping text segments preserve context  
+- **Sub-Second Retrieval** – FAISS powers instant similarity search  
+- **Prompt Engineering** – Carefully structured for optimal LLM performance  
+- **Web UI** – Gradio interface, zero DevOps required  
 
 ## Quick Start
 
@@ -82,10 +82,10 @@ python YouTube_Bot.py
 - **Video Length:** Handles 4+ hour transcripts
 - **Accuracy:** 100% grounded in source material
 
----
-
-***[My LinkedIn https://www.linkedin.com/in/samuel-olagbenro]**  
+**Author**
+**Samuel Olagbenro**
+*Data Scientist | AI/ML Engineer*
 <a href="https://www.linkedin.com/in/samuel-olagbenro" target="_blank">
-  LinkedIn
+  My LinkedIn
 </a>
 Open to conversations about RAG systems, LLM engineering, and production ML roles.
