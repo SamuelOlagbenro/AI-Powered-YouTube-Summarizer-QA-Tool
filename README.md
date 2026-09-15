@@ -7,3 +7,6 @@
 ![RAG Architecture](https://img.shields.io/badge/Architecture-RAG-FF1493?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Production%20Ready-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-Apache%202.0-green?style=flat-square)
+
+![YouTube API](https://img.shields.io/badge/YouTube-Transcript%20API-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Data Processing](https://img.shields.io/badge/Text%20Processing-LangChain-0EA5E9?style=flat-square)
